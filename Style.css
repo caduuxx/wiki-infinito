@@ -1,0 +1,50 @@
+body
+{
+ background-image:url(https://cdn.discordapp.com/attachments/1016359058552389712/1028792741481685002/os_batutinhAS.png); 
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+#titulo
+{
+    font-family: 'Lexend', sans-serif;
+    font: size 20rem;
+    color: white;
+    text-align: center;
+}
+#paragrafo
+{
+    font-family: 'Lexend', sans-serif;
+    font: size 10rem;
+    color: white;
+    text-align: left;
+}
+#paragrafoGrande
+{
+    font-family: 'Lexend', sans-serif;
+    font: size 7rem;
+    color: white;
+    text-align: left;
+}
+.divUm
+{
+    background-color: rgb(70, 69, 69);
+    text-align: center;
+    
+    box-shadow : rgba(0, 0, 0, 0.24) 0px 1px 0px, rgba(5, 5, 5, 0.1) 0px 0px 8px;
+    padding: 15px 50px 25px;
+    margin: 40px;
+    height: auto;
+    border-radius: 10px;
+}
+a.visited {
+    color: white;
+    text-decoration: none;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.foto {
+    width: 75%;
+}
